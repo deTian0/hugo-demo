@@ -1,4 +1,4 @@
-baseURL = 'https://detian0.github.io'
+baseURL = 'https://detian0.github.io/hugo-demo/public'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
